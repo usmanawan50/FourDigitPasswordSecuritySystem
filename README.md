@@ -8,7 +8,7 @@ Four Digit Password Security System using Digital logic ICs.
 
 # About the project
 
-This project implements a 4 digit password system using Digital logic gate ICs like NAND, NOR, and AND gates. The complete implementation checks 4 digits and also has a encryption/decryption mechanism but the hardware implementaion only checks 4 bits due to lack of time and funds. The circuit is not complex, and can be very easily implementation.
+This project implements a 4 digit password system using Digital logic gate ICs like NAND, NOR, and AND gates. The complete implementation checks 4 digits and also has a encryption/decryption mechanism but the hardware implementaion only checks 4 bits due to lack of time and funds. The circuit is not complex, and can be very easily implemented.
 
 ## Acknowledgements
 
@@ -31,15 +31,19 @@ The deployment is very simple. Look up the ICs required from the report and make
 ## Circuit schematics
 
 ### Proteus schematic
+
 ![Demo schematic](Sources/CompleteCircuit.png)
 
 ### Hardware schematic
+
 ![Demo schematic](Sources/HardwareCircuit.png)
 
 ## Usage/Examples
 
 ### Proteus demo
-![Demo schematic](Sources/SimulationDemo.mp4)
+
+See Demo from Sources folder.
 
 ### Hardware demo
-![Demo schematic](Sources/HardwareDEMO.mp4)
+
+See Demo from Sources folder.
